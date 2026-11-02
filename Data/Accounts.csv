@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,balance,currency
+A1001,1,checking,1000,USD
+A1002,1,checking,2000,USD
+A1003,1,checking,3000,USD
+A1004,1,checking,4000,USD
+A1005,1,checking,5000,USD
