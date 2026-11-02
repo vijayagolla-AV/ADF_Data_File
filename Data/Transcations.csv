@@ -1,0 +1,6 @@
+Transaction_id,Customer_ID,Amount,Transcation_Date,Status
+T001,1,1000,11/2/2026,Completed
+T002,2,2000,11/2/2026,Completed
+T003,3,3000,11/2/2026,Pending
+T004,4,4000,11/2/2026,Completed
+T005,5,5000,11/2/2026,Failed
