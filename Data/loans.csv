@@ -1,0 +1,6 @@
+loan_id,customer_id,loan_type,outstanding_amount,status
+L1001,1,Mortagege,100000,Active
+L1002,1,Mortagege,200000,Active
+L1003,1,Mortagege,300000,Closed
+L1004,1,Mortagege,400000,Active
+L1005,1,Mortagege,500000,Active
